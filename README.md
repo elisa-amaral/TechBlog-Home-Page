@@ -1,4 +1,4 @@
-# Fashion Model Website Prototype
+# TechBlog Landing Page
 
 This project is a landing page of a fictional technology blog.
 It was coded with HTML and CSS, with the purpose of showing that it's possible to 
