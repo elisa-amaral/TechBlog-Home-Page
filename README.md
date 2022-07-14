@@ -1,7 +1,7 @@
 # TechBlog Landing Page
 
 This project the landing page of a fictional technology blog named TechBlog.
-It was coded with HTML and CSS, with the purpose of showing that it's possible to 
+It was coded in HTML and CSS with the purpose of showing that it's possible to 
 create a simple but well designed website with essential HTML tags and basic CSS.
 
 ## Screenshot 
@@ -12,4 +12,3 @@ create a simple but well designed website with essential HTML tags and basic CSS
 
 + HTML
 + CSS
-+ Image Editing
